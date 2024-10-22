@@ -1,0 +1,4 @@
+DET -> the | a
+N -> people | person | dog
+V -> likes | like | dislikes | dislike
+ADJ -> white
